@@ -1,0 +1,25 @@
+{
+  "name": "yesornohahaha",
+  "version": "1.0.0",
+  "description": "yes or no",
+  "main": "src/index",
+  "scripts": {
+    "test": "node test/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/accessweiqiang/yesorno.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "yes no"
+  ],
+  "author": "andy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/accessweiqiang/yesorno/issues"
+  },
+  "homepage": "https://github.com/accessweiqiang/yesorno#readme",
+  "dependencies": {}
+}
